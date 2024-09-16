@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+width: 50%;
+  height: 40%;
+}
